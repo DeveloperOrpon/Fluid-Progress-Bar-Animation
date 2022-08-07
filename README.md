@@ -7,4 +7,4 @@
 - - https://github.com/square/picasso :tada: Load Image
 
 <h1> Project look on device </h1>
-<img src='https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid_slider.gif'  alt='Video Prohressbar' />
+<img src='https://github.com/Ramotion/fluid-slider-android/raw/master/Fluid_slider.gif' width="300px"  alt='Video Prohressbar' />
